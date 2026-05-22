@@ -1,7 +1,7 @@
 bl_info = {
     "name": "LEGO Toolkit",
     "description": "",
-    "author": "snadra",
+    "author": "sandra",
     "version": (1,0),
     "blender":(3, 0, 0),
     "location": "View3D",
